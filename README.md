@@ -11,7 +11,6 @@
 
 - 📝 I regularly write articles on [https://www.weglide.org/user/3569](https://www.weglide.org/user/3569)
 
-- 💬 Ask me about **Java, C**
 
 - 📫 How to reach me **donati@gionata.ch**
 
