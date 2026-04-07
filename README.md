@@ -9,7 +9,6 @@
 
 - 🌱 I’m currently learning **Microchip PIC32MX370F512L**
 
-- 📝 I regularly write articles on [https://www.weglide.org/user/3569](https://www.weglide.org/user/3569)
 
 
 - 📫 How to reach me **donati@gionata.ch**
